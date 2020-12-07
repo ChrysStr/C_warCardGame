@@ -1,0 +1,14 @@
+Game oF War made in C with restrictions
+Code example in C
+Example of Card Game War
+Played with two mini-deck of single suit of 13 cards.
+Manual mode were player prompts for each play .
+Automatic mode where play and winner are determined without input as game is entirely luck based and requires no skill.
+Output in standard output.
+limitations:
+	no external libraries.
+	single text file only.	
+can be compiled and run in online C compiler
+ex: https://www.onlinegdb.com/online_c_compiler or https://www.tutorialspoint.com/compile_c_online.php
+
+will expand as developes
